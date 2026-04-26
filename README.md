@@ -20,4 +20,4 @@ A full-stack task management application built using the MERN stack.
 ```bash
 cd backend
 npm install
-node server.js
+node Server.js
